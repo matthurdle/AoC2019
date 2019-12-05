@@ -1,0 +1,11 @@
+C:\Users\matt.hurdle\source\repos\AoC2019\Day5\bin\Debug\netcoreapp2.1\Day5.deps.json
+C:\Users\matt.hurdle\source\repos\AoC2019\Day5\bin\Debug\netcoreapp2.1\Day5.runtimeconfig.json
+C:\Users\matt.hurdle\source\repos\AoC2019\Day5\bin\Debug\netcoreapp2.1\Day5.runtimeconfig.dev.json
+C:\Users\matt.hurdle\source\repos\AoC2019\Day5\bin\Debug\netcoreapp2.1\Day5.dll
+C:\Users\matt.hurdle\source\repos\AoC2019\Day5\bin\Debug\netcoreapp2.1\Day5.pdb
+C:\Users\matt.hurdle\source\repos\AoC2019\Day5\obj\Debug\netcoreapp2.1\Day5.csprojAssemblyReference.cache
+C:\Users\matt.hurdle\source\repos\AoC2019\Day5\obj\Debug\netcoreapp2.1\Day5.csproj.CoreCompileInputs.cache
+C:\Users\matt.hurdle\source\repos\AoC2019\Day5\obj\Debug\netcoreapp2.1\Day5.AssemblyInfoInputs.cache
+C:\Users\matt.hurdle\source\repos\AoC2019\Day5\obj\Debug\netcoreapp2.1\Day5.AssemblyInfo.cs
+C:\Users\matt.hurdle\source\repos\AoC2019\Day5\obj\Debug\netcoreapp2.1\Day5.dll
+C:\Users\matt.hurdle\source\repos\AoC2019\Day5\obj\Debug\netcoreapp2.1\Day5.pdb

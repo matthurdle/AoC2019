@@ -1,0 +1,11 @@
+C:\Users\matt.hurdle\source\repos\AoC2019\AoC2019\obj\Debug\netcoreapp2.1\AoC2019.csprojAssemblyReference.cache
+C:\Users\matt.hurdle\source\repos\AoC2019\AoC2019\obj\Debug\netcoreapp2.1\AoC2019.csproj.CoreCompileInputs.cache
+C:\Users\matt.hurdle\source\repos\AoC2019\AoC2019\obj\Debug\netcoreapp2.1\AoC2019.AssemblyInfoInputs.cache
+C:\Users\matt.hurdle\source\repos\AoC2019\AoC2019\obj\Debug\netcoreapp2.1\AoC2019.AssemblyInfo.cs
+C:\Users\matt.hurdle\source\repos\AoC2019\AoC2019\bin\Debug\netcoreapp2.1\AoC2019.deps.json
+C:\Users\matt.hurdle\source\repos\AoC2019\AoC2019\bin\Debug\netcoreapp2.1\AoC2019.runtimeconfig.json
+C:\Users\matt.hurdle\source\repos\AoC2019\AoC2019\bin\Debug\netcoreapp2.1\AoC2019.runtimeconfig.dev.json
+C:\Users\matt.hurdle\source\repos\AoC2019\AoC2019\bin\Debug\netcoreapp2.1\AoC2019.dll
+C:\Users\matt.hurdle\source\repos\AoC2019\AoC2019\bin\Debug\netcoreapp2.1\AoC2019.pdb
+C:\Users\matt.hurdle\source\repos\AoC2019\AoC2019\obj\Debug\netcoreapp2.1\AoC2019.dll
+C:\Users\matt.hurdle\source\repos\AoC2019\AoC2019\obj\Debug\netcoreapp2.1\AoC2019.pdb
