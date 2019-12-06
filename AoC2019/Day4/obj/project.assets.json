@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\matt.hurdle\\source\\repos\\AoC2019\\Day4\\Day4.csproj",
+      "projectUniqueName": "C:\\Users\\matt.hurdle\\source\\repos\\AoC2019\\AoC2019\\Day4\\Day4.csproj",
       "projectName": "Day4",
-      "projectPath": "C:\\Users\\matt.hurdle\\source\\repos\\AoC2019\\Day4\\Day4.csproj",
+      "projectPath": "C:\\Users\\matt.hurdle\\source\\repos\\AoC2019\\AoC2019\\Day4\\Day4.csproj",
       "packagesPath": "C:\\Users\\matt.hurdle\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\matt.hurdle\\source\\repos\\AoC2019\\Day4\\obj\\",
+      "outputPath": "C:\\Users\\matt.hurdle\\source\\repos\\AoC2019\\AoC2019\\Day4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

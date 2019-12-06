@@ -9,3 +9,14 @@ C:\Users\matt.hurdle\source\repos\AoC2019\Day4\obj\Debug\netcoreapp2.1\Day4.Asse
 C:\Users\matt.hurdle\source\repos\AoC2019\Day4\obj\Debug\netcoreapp2.1\Day4.AssemblyInfo.cs
 C:\Users\matt.hurdle\source\repos\AoC2019\Day4\obj\Debug\netcoreapp2.1\Day4.dll
 C:\Users\matt.hurdle\source\repos\AoC2019\Day4\obj\Debug\netcoreapp2.1\Day4.pdb
+C:\Users\matt.hurdle\source\repos\AoC2019\AoC2019\Day4\bin\Debug\netcoreapp2.1\Day4.deps.json
+C:\Users\matt.hurdle\source\repos\AoC2019\AoC2019\Day4\bin\Debug\netcoreapp2.1\Day4.runtimeconfig.json
+C:\Users\matt.hurdle\source\repos\AoC2019\AoC2019\Day4\bin\Debug\netcoreapp2.1\Day4.runtimeconfig.dev.json
+C:\Users\matt.hurdle\source\repos\AoC2019\AoC2019\Day4\bin\Debug\netcoreapp2.1\Day4.dll
+C:\Users\matt.hurdle\source\repos\AoC2019\AoC2019\Day4\bin\Debug\netcoreapp2.1\Day4.pdb
+C:\Users\matt.hurdle\source\repos\AoC2019\AoC2019\Day4\obj\Debug\netcoreapp2.1\Day4.csprojAssemblyReference.cache
+C:\Users\matt.hurdle\source\repos\AoC2019\AoC2019\Day4\obj\Debug\netcoreapp2.1\Day4.csproj.CoreCompileInputs.cache
+C:\Users\matt.hurdle\source\repos\AoC2019\AoC2019\Day4\obj\Debug\netcoreapp2.1\Day4.AssemblyInfoInputs.cache
+C:\Users\matt.hurdle\source\repos\AoC2019\AoC2019\Day4\obj\Debug\netcoreapp2.1\Day4.AssemblyInfo.cs
+C:\Users\matt.hurdle\source\repos\AoC2019\AoC2019\Day4\obj\Debug\netcoreapp2.1\Day4.dll
+C:\Users\matt.hurdle\source\repos\AoC2019\AoC2019\Day4\obj\Debug\netcoreapp2.1\Day4.pdb

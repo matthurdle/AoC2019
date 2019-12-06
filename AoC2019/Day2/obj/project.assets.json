@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\matt.hurdle\\source\\repos\\AoC2019\\Day2\\IntCode.csproj",
+      "projectUniqueName": "C:\\Users\\matt.hurdle\\source\\repos\\AoC2019\\AoC2019\\Day2\\IntCode.csproj",
       "projectName": "IntCode",
-      "projectPath": "C:\\Users\\matt.hurdle\\source\\repos\\AoC2019\\Day2\\IntCode.csproj",
+      "projectPath": "C:\\Users\\matt.hurdle\\source\\repos\\AoC2019\\AoC2019\\Day2\\IntCode.csproj",
       "packagesPath": "C:\\Users\\matt.hurdle\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\matt.hurdle\\source\\repos\\AoC2019\\Day2\\obj\\",
+      "outputPath": "C:\\Users\\matt.hurdle\\source\\repos\\AoC2019\\AoC2019\\Day2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
