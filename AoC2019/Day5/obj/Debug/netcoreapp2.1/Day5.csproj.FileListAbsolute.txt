@@ -20,3 +20,13 @@ C:\Users\matt.hurdle\source\repos\AoC2019\AoC2019\Day5\obj\Debug\netcoreapp2.1\D
 C:\Users\matt.hurdle\source\repos\AoC2019\AoC2019\Day5\obj\Debug\netcoreapp2.1\Day5.AssemblyInfo.cs
 C:\Users\matt.hurdle\source\repos\AoC2019\AoC2019\Day5\obj\Debug\netcoreapp2.1\Day5.dll
 C:\Users\matt.hurdle\source\repos\AoC2019\AoC2019\Day5\obj\Debug\netcoreapp2.1\Day5.pdb
+D:\Users\matth\github-repos\AoC2019\AoC2019\Day5\bin\Debug\netcoreapp2.1\Day5.deps.json
+D:\Users\matth\github-repos\AoC2019\AoC2019\Day5\bin\Debug\netcoreapp2.1\Day5.runtimeconfig.json
+D:\Users\matth\github-repos\AoC2019\AoC2019\Day5\bin\Debug\netcoreapp2.1\Day5.runtimeconfig.dev.json
+D:\Users\matth\github-repos\AoC2019\AoC2019\Day5\bin\Debug\netcoreapp2.1\Day5.dll
+D:\Users\matth\github-repos\AoC2019\AoC2019\Day5\bin\Debug\netcoreapp2.1\Day5.pdb
+D:\Users\matth\github-repos\AoC2019\AoC2019\Day5\obj\Debug\netcoreapp2.1\Day5.csprojAssemblyReference.cache
+D:\Users\matth\github-repos\AoC2019\AoC2019\Day5\obj\Debug\netcoreapp2.1\Day5.AssemblyInfoInputs.cache
+D:\Users\matth\github-repos\AoC2019\AoC2019\Day5\obj\Debug\netcoreapp2.1\Day5.AssemblyInfo.cs
+D:\Users\matth\github-repos\AoC2019\AoC2019\Day5\obj\Debug\netcoreapp2.1\Day5.dll
+D:\Users\matth\github-repos\AoC2019\AoC2019\Day5\obj\Debug\netcoreapp2.1\Day5.pdb
